@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HouMY&#39;s Blog</title>
-    <link>https://example.com/posts/</link>
+    <link>http://104.238.141.56:80/posts/</link>
     <description>Recent content in Posts on HouMY&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://104.238.141.56:80/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>《1984》</title>
-      <link>https://example.com/posts/1984-notes/</link>
+      <link>http://104.238.141.56:80/posts/1984-notes/</link>
       <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/1984-notes/</guid>
+      <guid>http://104.238.141.56:80/posts/1984-notes/</guid>
       <description>#《1984》 ——思考和表达的权利
  《1984》描述了在集权主义控制的畸形社会中，一个萌生了独立自由思想的人，经历了由陷入痛苦到产生希望，再到最终被集权政府玩弄并丧失自我的过程。
  先简单聊聊书中的故事。《1984》描绘了一个集权政府控制下的社会。前半段，主人公，我们叫它老温吧，作为有志青年充满了对畸形社会不满，想要反抗集权政府对他思想的控制。好像金庸世界中的大侠，是面对强大异国入侵时坚韧的剑客，虽然遍地都是因为金军入侵而流亡叛逃的懦夫但仍不改初心，伺机而动。随后，老温也像侠客一样，找到志同道合的真爱，虽然集权政府禁止他们的爱情，但二人仍藏于“绝情谷”修炼（杨过小龙女在此“修炼”），最终找到了反抗组织的头目，共谋“抗金”大业。可《1984》同金庸小说的相似也就到此结束，所谓反抗组织不过是捉拿异教徒的钓鱼台，老温很快被抓，在严刑逼供和灵魂拷问中丧了命，投了降。老温的悲剧可不像剑客的悲剧，集权社会也不像武侠世界给你潇洒的战斗到死的机会。看到最后社会不过是一盘只有死路的迷宫，想逃就只有死的结局，还是形神俱灭。
@@ -39,10 +39,10 @@
     
     <item>
       <title>1st_post</title>
-      <link>https://example.com/posts/1st_post/</link>
+      <link>http://104.238.141.56:80/posts/1st_post/</link>
       <pubDate>Thu, 22 Aug 2019 09:56:02 +0800</pubDate>
       
-      <guid>https://example.com/posts/1st_post/</guid>
+      <guid>http://104.238.141.56:80/posts/1st_post/</guid>
       <description>its a nice day today!</description>
     </item>
     

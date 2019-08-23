@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>http://104.238.141.56:80/</loc>
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>http://104.238.141.56:80/posts/</loc>
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/1984-notes/</loc>
+    <loc>http://104.238.141.56:80/posts/1984-notes/</loc>
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/1st_post/</loc>
+    <loc>http://104.238.141.56:80/posts/1st_post/</loc>
     <lastmod>2019-08-22T09:56:02+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://104.238.141.56:80/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://104.238.141.56:80/tags/</loc>
     <priority>0</priority>
   </url>
   
