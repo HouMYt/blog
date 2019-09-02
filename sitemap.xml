@@ -4,14 +4,28 @@
   
   <url>
     <loc>http://104.238.141.56:80/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://104.238.141.56:80/posts/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://104.238.141.56:80/posts/the-great-silence-by-ted-chiang/</loc>
+    <lastmod>2019-09-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://104.238.141.56:80/posts/the-merchant-and-the-alchemists-gate/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -22,8 +36,8 @@
   </url>
   
   <url>
-    <loc>http://104.238.141.56:80/posts/1st_post/</loc>
-    <lastmod>2019-08-22T09:56:02+08:00</lastmod>
+    <loc>http://104.238.141.56:80/posts/hell-is-the-absence-of-god/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
